@@ -1,0 +1,78 @@
+{
+    "name": "Mario Kart: Double Dash!!",
+    "id": "mkdd",
+    "date": "15/06/2024",
+    "dateformat": "DD/MM/YYYY",
+    "category": "Mushroom Cup",
+    "pb": false,
+    "leaderboard": [
+        {
+            "name": "Goomba",
+            "link": "https://youtu.be/K6b0Ip1J92Q",
+            "time": {
+                "h": 0,
+                "m": 6,
+                "s": 24,
+                "ms": 390
+            }
+        },
+        {
+            "name": "OptimisticEmo",
+            "link": "https://youtu.be/Xk63lYoZWhQ",
+            "time": {
+                "h": 0,
+                "m": 6,
+                "s": 26,
+                "ms": 0
+            }
+        },
+        {
+            "name": "yungrick",
+            "link": "https://youtu.be/R3npMGk7SIg",
+            "time": {
+                "h": 0,
+                "m": 6,
+                "s": 32,
+                "ms": 0
+            }
+        }
+    ],
+    "segments": [
+        {
+            "name": "Luigi Circuit",
+            "target": {
+                "h": 0,
+                "m": 1,
+                "s": 44,
+                "ms": 290
+            }
+        },
+        {
+            "name": "Peach Beach",
+            "target": {
+                "h": 0,
+                "m": 3,
+                "s": 17,
+                "ms": 730
+            }
+        },
+        {
+            "name": "Baby Park",
+            "target": {
+                "h": 0,
+                "m": 4,
+                "s": 50,
+                "ms": 110
+            }
+        },
+        {
+            "name": "Dry Dry Desert",
+            "target": {
+                "h": 0,
+                "m": 6,
+                "s": 24,
+                "ms": 390
+            }
+        }
+    ]
+}

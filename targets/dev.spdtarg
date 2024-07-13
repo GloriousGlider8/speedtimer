@@ -1,0 +1,78 @@
+{
+    "name": "Development Process",
+    "id": "dev",
+    "date": "16/06/2024",
+    "dateformat": "DD/MM/YYYY",
+    "category": "Timer Test",
+    "pb": false,
+    "leaderboard": [
+        {
+            "name": "dev0",
+            "link": false,
+            "time": {
+                "h": 0,
+                "m": 0,
+                "s": 18,
+                "ms": 123
+            }
+        },
+        {
+            "name": "dev1",
+            "link": false,
+            "time": {
+                "h": 0,
+                "m": 0,
+                "s": 26,
+                "ms": 145
+            }
+        },
+        {
+            "name": "dev2",
+            "link": false,
+            "time": {
+                "h": 0,
+                "m": 0,
+                "s": 28,
+                "ms": 184
+            }
+        }
+    ],
+    "segments": [
+        {
+            "name": "Segment 1",
+            "target": {
+                "h": 0,
+                "m": 0,
+                "s": 3,
+                "ms": 123
+            }
+        },
+        {
+            "name": "Segment 2",
+            "target": {
+                "h": 0,
+                "m": 0,
+                "s": 13,
+                "ms": 123
+            }
+        },
+        {
+            "name": "Segment 3",
+            "target": {
+                "h": 0,
+                "m": 0,
+                "s": 15,
+                "ms": 373
+            }
+        },
+        {
+            "name": "Segment 4",
+            "target": {
+                "h": 0,
+                "m": 0,
+                "s": 18,
+                "ms": 123
+            }
+        }
+    ]
+}
